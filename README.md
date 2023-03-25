@@ -1,2 +1,2 @@
-# SQL_Profiling-and-Analyzing-the-Yelp-Dataset
+# SQL-Profiling-and-Analyzing-the-Yelp-Dataset
 Data Scientist Role Play
